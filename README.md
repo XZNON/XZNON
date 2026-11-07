@@ -18,11 +18,15 @@
 - 🌱 Continuously learning: **LangGraph, Computer Vision, Model Deployment & Cloud MLOps**
 - 💬 Ask me about: **AI Agents, Computer Vision, Cloud-native Deployment**
 - ⚡ One-liner: Do what you love, and do it to the fullest
+- 🌐 My website: **[xznon.online](https://xznon.online)**, my journey so far, as a puzzle that builds as you scroll
 - 📫 Reach me at: [shivaliksinghsolanki@gmail.com](mailto:shivaliksinghsolanki@gmail.com)
 
 > *"Do what I like, and do it well."*
 
 <p align="center">
+  <a href="https://xznon.online">
+    <img src="https://img.shields.io/badge/-xznon.online-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/shivalik-solanki-2ab233207">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
